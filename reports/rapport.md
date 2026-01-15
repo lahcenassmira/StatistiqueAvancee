@@ -68,7 +68,7 @@ Le projet suit une démarche Data Analyst complète :
   - matplotlib, seaborn
 - Jupyter Notebook
 - Git / GitHub
-- Canva / Skywork (présentation)
+- Canva  (présentation)
 - Confluence (documentation)
 
 ---
@@ -85,7 +85,7 @@ US-Accidents-Statistical-Analysis/
 │   ├── 01_EDA.ipynb
 │   ├── 02_Statistiques.py
 │   ├── 03_Modelisation.ipynb
-|   ├── ANOVA_corelatio.py
+|   ├── ANOVA_corelation.py
 │
 ├── reports/
 │   └── rapport.pdf
